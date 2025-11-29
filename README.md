@@ -29,6 +29,3 @@ This dashboard provides insights into sales performance, top products, categorie
 > Clean UI with consistent formatting
 > Fully dynamic visuals
 > KPI cards
-
-Bookmarks & cross filters# powerbi-sales-analytics-dashboard
-Interactive Power BI dashboard analyzing sales performance, top products, monthly trends and customer ratings.
